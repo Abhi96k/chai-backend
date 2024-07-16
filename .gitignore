@@ -1,0 +1,19 @@
+//generate git ignore for node js project 
+
+/.env
+/node_modules
+npm-debug.log
+yarn-error.log
+.DS_Store
+/*.log
+/*.log.*
+/*.sublime-project
+/*.sublime-workspace
+/.vscode
+/.nyc_output
+/coverage
+/lib-cov
+*.seed
+*.log
+*.csv
+
